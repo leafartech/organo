@@ -1,0 +1,19 @@
+footer.rodape {
+    width: 100%;
+    background: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 48px 0;
+}
+footer.rodape div img {
+    width: 16px;
+    margin: 0 16px;
+}
+footer.rodape > img {
+    width: 100px;
+}
+footer.rodape p {
+    color: #fff;
+    font-size: .8rem
+}
